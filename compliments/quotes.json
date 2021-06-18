@@ -1,0 +1,16 @@
+{"compliments": {
+		"anytime": [
+			"Your random general messages here. Be kind! :)"
+
+		],
+		"morning": [
+			"Your random good morning messages here"
+		],
+		"afternoon": [
+			"Your random afternoon messages here"
+		],
+		"evening": [
+			"Your random good night messages here"
+		]
+	}
+}
